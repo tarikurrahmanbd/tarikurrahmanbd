@@ -1,55 +1,53 @@
-# 👋 Hi, I'm **Tarikur Rahman**
+# <p align="center">👋 Hi, I'm Tarikur Rahman</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+Enthusiast;Arduino+Developer;IoT+Builder;Future+Engineer;Learning+New+Things+Every+Day">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+Engineer+in+Progress;Arduino+%7C+IoT+Developer;Python+Learner;Future+AI+and+Robotics+Engineer;Building+Cool+Tech+Projects">
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧑‍🚀 About Me
 
-🤖 Passionate about **Robotics & Electronics**
-🔌 Building **Arduino & IoT Projects**
-🐍 Currently learning **Python**
-💡 Love creating **automation & smart systems**
-🚀 Dream: Become a **Professional Robotics Engineer**
+🤖 Robotics & Electronics Enthusiast
+🔧 Love building **Arduino & IoT systems**
+🐍 Currently learning **Python & Automation**
+🚀 Working on creative **robotics projects**
+💡 Passion: **Technology + Innovation**
 
 ---
 
-# 🧰 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,python,html,css,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=arduino,python,html,css,git,github,vscode,linux&perline=8"/>
 
 </p>
 
 ---
 
-# 🤖 Featured Projects
+# 🤖 Featured Robotics Projects
 
-### 🚒 Fire Fighting Robot
-
+🚒 **Fire Fighting Robot**
 Autonomous robot that detects fire and extinguishes it.
 
-### 🏠 IoT Home Automation
+🏠 **IoT Home Automation**
+Control home appliances remotely with IoT.
 
-Control home appliances remotely using IoT technology.
-
-### 🎹 Hand Tracking Virtual Piano
-
+🎹 **Hand Tracking Virtual Piano**
 Play piano in the air using computer vision.
 
-### 🚁 FPV Drone Project
-
+🚁 **FPV Drone Project**
 Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarikurrahmanbd&theme=tokyonight&no-frame=true&row=1&column=6">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tarikurrahmanbd&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -76,7 +74,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -86,9 +84,13 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
@@ -112,10 +114,18 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 👀 Visitors
+# 🧠 Quote
+
+> “The best way to predict the future is to build it.”
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&color=blue&style=for-the-badge">
+
+<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&color=blue&style=for-the-badge"/>
+
 </p>
 
 ---
