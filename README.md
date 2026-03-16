@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarikur Rahman</h1>
-
+![Metrics](https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/main/github-metrics.svg)
 <p align="center">
 🚀 Robotics Enthusiast | Arduino Beginner | Web Learner
 </p>
