@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tarikur Rahman</h1>
+# Hi 👋 I'm Tarikur Rahman
+
+Welcome to my GitHub profile
+
 ![Metrics](https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/main/github-metrics.svg)
-<p align="center">
-🚀 Robotics Enthusiast | Arduino Beginner | Web Learner
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Robotics+Enthusiast;Arduino+Developer;Future+Engineer;Learning+Every+Day">
