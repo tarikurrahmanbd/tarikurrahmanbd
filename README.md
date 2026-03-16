@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1A2E&height=220&section=header&text=Tarikur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20|%20IoT%20|%20Arduino%20Developer&descAlignY=60&descSize=18">
 </p>
 
-<h2 align="center">Hi 👋 I'm Tarikur Rahman</h2>
+<h2 align="center">Hi I'm Tarikur Rahman</h2>
 <h3 align="center">Robotics | IoT | Arduino Developer</h3>
 
 <p align="center">
@@ -11,17 +11,17 @@
 
 ---
 
-# 🧑‍🚀 About Me
+# About Me
 
-🤖 Passionate about **Robotics & Electronics**
-🔌 Building **Arduino & IoT Projects**
-🐍 Currently learning **Python**
-💡 Love creating **automation systems**
-🚀 Dream: Become a **Professional Robotics Engineer**
+Passionate about **Robotics & Electronics**
+Building **Arduino & IoT Projects**
+Currently learning **Python**
+Love creating **automation systems**
+Dream: Become a **Professional Robotics Engineer**
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -31,23 +31,23 @@
 
 ---
 
-# 🤖 Featured Projects
+# Featured Projects
 
-🚒 **Fire Fighting Robot**
+**Fire Fighting Robot**
 Autonomous robot that detects fire and extinguishes it.
 
-🏠 **IoT Home Automation System**
+**IoT Home Automation System**
 Control home appliances remotely using IoT technology.
 
-🎹 **Hand Tracking Virtual Piano**
+**Hand Tracking Virtual Piano**
 Play piano in the air using computer vision.
 
-🚁 **FPV Drone Project**
+**FPV Drone Project**
 Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tarikurrahmanbd&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -55,7 +55,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -67,7 +67,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 💻 Most Used Languages
+# Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikurrahmanbd&layout=compact&theme=tokyonight"/>
@@ -75,7 +75,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarikurrahmanbd&theme=tokyo-night"/>
@@ -83,7 +83,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/output/github-contribution-grid-snake.svg"/>
@@ -91,7 +91,7 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -111,13 +111,13 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-# 🧠 Quote
+# Quote
 
 > “The best way to predict the future is to build it.”
 
 ---
 
-# 👀 Visitors
+# Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&color=blue&style=for-the-badge"/>
@@ -125,4 +125,4 @@ Building a budget FPV drone for aerial exploration.
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+**Thanks for visiting my GitHub profile!**
