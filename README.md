@@ -95,7 +95,7 @@ Building a budget FPV drone for aerial exploration.
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.facebook.com/tarikurrahman08">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -103,7 +103,7 @@ Building a budget FPV drone for aerial exploration.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://yourtarikur.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
