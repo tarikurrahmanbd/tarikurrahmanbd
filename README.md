@@ -1,128 +1,70 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1A2E&height=220&section=header&text=Tarikur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20|%20IoT%20|%20Arduino%20Developer&descAlignY=60&descSize=18">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ffca1,100:01051e&height=250&section=header&text=TARIKUR%20RAHMAN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ROBOTICS%20•%20IOT%20•%20EMBEDDED&descAlignY=58&descSize=20&descColor=0ffca1">
 </p>
-
-<h2 align="center">Hi I'm Tarikur Rahman</h2>
-<h3 align="center">Robotics | IoT | Arduino Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+Enthusiast;Arduino+Developer;IoT+Builder;Future+Engineer;Learning+New+Technology+Every+Day">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+Enthusiast;Arduino+Developer;IoT+Solution+Architect;Future+Robotics+Engineer;Exploring+Computer+Vision">
+</p>
+
+## ⚡ About Me
+I am a dedicated **Robotics & IoT Developer** passionate about bridging the gap between hardware and software. I love building autonomous systems and smart devices that solve real-world problems.
+
+- 🔭 **Current Focus:** Advanced Robotics & Computer Vision.
+- 🌱 **Learning:** Deepening my knowledge in **Python** and **ROS (Robot Operating System)**.
+- 🛠 **Goal:** To innovate in the field of industrial automation.
+- 💬 **Ask me about:** Arduino, ESP32, Sensors, and Circuit Design.
+
+---
+
+## 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,raspberrypi,linux,mysql,html,css,git,github,vscode,figma,pennant&perline=8"/>
 </p>
 
 ---
 
-# About Me
-
-Passionate about **Robotics & Electronics**
-Building **Arduino & IoT Projects**
-Currently learning **Python**
-Love creating **automation systems**
-Dream: Become a **Professional Robotics Engineer**
+## 🏆 Featured Projects
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔥 Fire Fighting Robot** | Autonomous robot that detects and extinguishes fire sources. | `Arduino`, `Flame Sensors` |
+| **🏠 IoT Home Automation** | Remote control system for home appliances via mobile/web. | `ESP8266`, `Blynk`, `IoT` |
+| **🎹 Virtual Piano** | A touchless piano played in the air using Hand Tracking. | `Python`, `OpenCV` |
+| **🚁 FPV Drone** | Custom built drone for high-speed aerial exploration. | `Flight Controller`, `Radio Telemetry` |
 
 ---
 
-# Tech Stack
-
+## 📊 GitHub Analytics
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,python,html,css,git,github,vscode,linux&perline=8"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=tarikurrahmanbd&show_icons=true&theme=tokyonight&border_radius=10" alt="Tarikur's Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikurrahmanbd&theme=tokyonight&border_radius=10" alt="Streak Stats" />
 </p>
 
----
-
-# Featured Projects
-
-**Fire Fighting Robot**
-Autonomous robot that detects fire and extinguishes it.
-
-**IoT Home Automation System**
-Control home appliances remotely using IoT technology.
-
-**Hand Tracking Virtual Piano**
-Play piano in the air using computer vision.
-
-**FPV Drone Project**
-Building a budget FPV drone for aerial exploration.
-
----
-
-# GitHub Achievements
-
+### 🛠 Most Used Languages
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarikurrahmanbd&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikurrahmanbd&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-# GitHub Stats
-
+## 🐍 Contribution Snake
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tarikurrahmanbd&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikurrahmanbd&theme=tokyonight"/>
-
+<img src="https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikurrahmanbd&layout=compact&theme=tokyonight"/>
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://www.facebook.com/tarikurrahman08"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourtarikur.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarikurrahmanbd&theme=tokyo-night"/>
+<p align="center"> 
+  <i>“The best way to predict the future is to build it.”</i> <br>
+  <img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&color=00F7FF&style=flat-square" alt="Visitors" />
 </p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://github.com/tarikurrahmanbd/tarikurrahmanbd/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="https://www.facebook.com/tarikurrahman08">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://yourtarikur.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# Quote
-
-> “The best way to predict the future is to build it.”
-
----
-
-# Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&color=blue&style=for-the-badge"/>
-</p>
-
----
-
-**Thanks for visiting my GitHub profile!**
