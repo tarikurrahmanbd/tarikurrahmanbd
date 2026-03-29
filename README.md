@@ -1,4 +1,9 @@
 <div align="center">
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarikurrahmanbd&layout=compact&theme=tokyonight&hide_border=true" alt="Coding Time" />
+</p>
   
 <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=250&section=header&text=Tarikur%20Rahman&fontSize=80&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Architect%20•%20Research%20Editor%20•%20Robotics%20Pioneer&descSize=25&descAlignY=65" width="100%" />
 
@@ -44,21 +49,21 @@ I am a **Digital Craftsman** merging the logic of **Robotics** with the beauty o
 
 ### 📈 **Digital Analytics & Impact**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarikurrahman08&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikurrahman08&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarikurrahmanbd&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikurrahmanbd&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarikurrahman08&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarikurrahmanbd&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
 ### 🐍 **The Contribution Grid**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tarikurrahman08/tarikurrahman08/output/github-contribution-grid-snake.svg" alt="Snake Grid Animation" />
+  <img src="https://raw.githubusercontent.com/tarikurrahmanbd/tarikurrahmanbd/output/github-contribution-grid-snake.svg" alt="Snake Grid Animation" />
 </p>
 
 ---
