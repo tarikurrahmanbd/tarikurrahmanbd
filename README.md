@@ -27,7 +27,7 @@ I am a **Digital Craftsman** merging the logic of **Robotics** with the beauty o
 ---
 
 ---
-
+[![tarikurrahmanbd's Trophies](https://github-profile-trophy.vercel.app/?username=tarikurrahmanbd&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🃏 **My GitFut Player Card**
 <div align="center">
   <a href="https://gitfut.com/tarikurrahmanbd">
