@@ -30,8 +30,8 @@ I am a **Digital Craftsman** merging the logic of **Robotics** with the beauty o
 
 ### 🃏 **My GitFut Player Card**
 <div align="center">
-  <a href="https://gitfut.com/tarikurrahman">
-    <img src="https://gitfut.com/tarikurrahman.png" alt="Tarikur Rahman's GitFut Card" width="380px" />
+  <a href="https://gitfut.com/tarikurrahmanbd">
+    <img src="https://gitfut.com/tarikurrahmanbd.png" alt="Tarikur Rahman's GitFut Card" width="380px" />
   </a>
 </div>
 
