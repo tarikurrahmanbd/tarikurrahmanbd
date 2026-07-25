@@ -3,8 +3,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
 </p>
-  
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=250&section=header&text=Tarikur%20Rahman&fontSize=80&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Architect%20•%20Research%20Editor%20•%20Robotics%20Pioneer&descSize=25&descAlignY=65" width="100%" />
 
 <br/>
 
